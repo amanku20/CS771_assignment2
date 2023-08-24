@@ -1,2 +1,2 @@
-# CS771_assignment2
+# CS771_assignment3
 Intro to ML 
